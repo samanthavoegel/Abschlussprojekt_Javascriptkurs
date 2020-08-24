@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<label lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="css/default.css" rel="stylesheet" type="text/css">
+  <title>Bergquiz</title>
+</head>
+
+<body>
+    <form id="quiz" action="#">
+        <h2 id="frage"></h2>
+        <ul>
+          <li>
+            <input type="radio" name="answer" id="answer0" >
+            <label for="answer0" id="label0">Antwort1</label></li>
+          <li>
+            <input type="radio" name="answer" id="answer1" >
+            <label for="answer1" id="label1">Anwort 2</label>
+          </li>
+          <li>
+            <input type="radio" name="answer" id="answer2"   value="Antwort 3">
+            <label for="answer2" id="label2">Antwort 3</label>
+          </li>
+        </ul>
+        <button type="button" id="button">bestätigen</button>
+      </form>
+      <p id="frageResult"></p>
+<p id="showResult"></p>
+<button type="button" id="restartbutton" disabled="disabled">restart</button>
+
+<script src="js/script.js"></script>
+</body>
+</label>

@@ -1,0 +1,39 @@
+{
+  "bergquiz": [
+    {
+      "nummer": "Frage 1: ",
+      "frage": "Wie hoch ist der Großglockner?",
+      "richtig": "3.798m",
+      "falsch1": "4.001m",
+      "falsch2": "2.700m"
+    },
+    {
+      "nummer": "Frage 2: ",
+      "frage": "Wo liegt der Piz Buin?",
+      "richtig": "Grenze zwischen Österreich und der Schweiz",
+      "falsch1": "Grenze zwischen Österreich und Deutschland",
+      "falsch2": "Grenze zwischen Deutschland und der Schweiz"
+    },
+    {
+      "nummer": "Frage 3: ",
+      "frage": "Wie heißt der höchste freistehende Berg der Welt?",
+      "richtig": "Mount Everest",
+      "falsch1": "Mont Blanc",
+      "falsch2": "Denali"
+    },
+    {
+      "nummer": "Frage 4: ",
+      "frage": "Wo liegt die Zugspitze?",
+      "richtig": "Grenze zwischen Österreich und Deutschland",
+      "falsch1": "Grenze zwischen Österreich und Italien",
+      "falsch2": "Grenze zwischen Österreich und Slowenien"
+    },
+    {
+      "nummer": "Frage 5: ",
+      "frage": "Was kostet es auf den Mount Everest zu steigen?",
+      "richtig": "ca. 31.000 Euro",
+      "falsch1": "ca. 4.000 Euro",
+      "falsch2": "ca. 500 Euro"
+    }
+  ]
+}
